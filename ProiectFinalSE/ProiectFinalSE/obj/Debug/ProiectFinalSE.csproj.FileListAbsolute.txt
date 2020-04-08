@@ -1,0 +1,13 @@
+C:\Users\Rada\source\repos\ProiectFinalSE\ProiectFinalSE\obj\Debug\ProiectFinalSE.csprojAssemblyReference.cache
+C:\Users\Rada\source\repos\ProiectFinalSE\ProiectFinalSE\obj\Debug\ProiectFinalSE.Form1.resources
+C:\Users\Rada\source\repos\ProiectFinalSE\ProiectFinalSE\obj\Debug\ProiectFinalSE.Form2.resources
+C:\Users\Rada\source\repos\ProiectFinalSE\ProiectFinalSE\obj\Debug\ProiectFinalSE.Properties.Resources.resources
+C:\Users\Rada\source\repos\ProiectFinalSE\ProiectFinalSE\obj\Debug\ProiectFinalSE.csproj.GenerateResource.cache
+C:\Users\Rada\source\repos\ProiectFinalSE\ProiectFinalSE\obj\Debug\ProiectFinalSE.csproj.CoreCompileInputs.cache
+C:\Users\Rada\source\repos\ProiectFinalSE\ProiectFinalSE\bin\Debug\ProiectFinalSE.exe.config
+C:\Users\Rada\source\repos\ProiectFinalSE\ProiectFinalSE\bin\Debug\ProiectFinalSE.exe
+C:\Users\Rada\source\repos\ProiectFinalSE\ProiectFinalSE\bin\Debug\ProiectFinalSE.pdb
+C:\Users\Rada\source\repos\ProiectFinalSE\ProiectFinalSE\obj\Debug\ProiectFinalSE.exe
+C:\Users\Rada\source\repos\ProiectFinalSE\ProiectFinalSE\obj\Debug\ProiectFinalSE.pdb
+C:\Users\Rada\source\repos\ProiectFinalSE\ProiectFinalSE\bin\Debug\Destinations.accdb
+C:\Users\Rada\source\repos\ProiectFinalSE\ProiectFinalSE\obj\Debug\ProiectFinalSE.Form3.resources
